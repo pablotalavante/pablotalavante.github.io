@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pieces of conc
+title: pieces of concrete
 description: This is a collection of short CSS snippets I thought might be useful for beginners
 summary: This is a collection of short CSS snippets I thought might be useful for beginners.
 tags: []
@@ -12,16 +12,16 @@ Human perception understands the geometric and structural meaning from a photogr
 
 What is shown are some results (out of the thousands) generated in which the understanding on the part of the machine of the texture, composition and form of what is represented in the photographs is appreciated, but perhaps not of the most characteristic characteristics. that make the building what it is.
 
-![1](/imgs/brt0.jpg)
+![1](imgs/brt0.png)
 
-![2](/imgs/brt6.jpg)
+![2](imgs/brt6.jpg)
 
-![3](/imgs/brt4.jpg)
+![3](imgs/brt4.png)
 
-![4](/imgs/brt3.jpg)
+![4](imgs/brt3.png)
 
-![5](/imgs/brt60.jpg)
+![5](imgs/brt-60.png)
 
-![6](/imgs/brt1.jpg)
+![6](imgs/brt1.png)
 
-![7](/imgs/brt50.jpg)
+![7](imgs/brt50.png)
