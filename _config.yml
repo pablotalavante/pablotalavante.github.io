@@ -1,18 +1,18 @@
-site: Asko
-url: #yoururl
-title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+site: pablo talavante
+url: pablotalavante.github.io
+title: pablo talavante
+description: This is my personal porfolio. Here you will find my creations, mostly made with a computer.
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: @pablotalavante
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: @pablotalavante
+  name: pablo talvante
   avatar:
   email: #youremail
-  url: #yoururl
+  url: pablotalavante.github.io
 permalink: pretty
 
 baseurl: ""
@@ -21,7 +21,7 @@ highlighter: none
 
 exclude:
   - .jekyll-cache
-  
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
@@ -42,7 +42,7 @@ collections:
   posts:
     output: true
     permalink: /:year/:month/:day/:slug
-  
+
 defaults:
   -
     scope:
