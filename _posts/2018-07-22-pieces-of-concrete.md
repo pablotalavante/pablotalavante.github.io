@@ -2,7 +2,7 @@
 layout: post
 title: pieces of concrete
 description:
-summary: 
+summary:
 tags: []
 ---
 
@@ -12,16 +12,16 @@ Human perception understands the geometric and structural meaning from a photogr
 
 What is shown are some results (out of the thousands) generated in which the understanding on the part of the machine of the texture, composition and form of what is represented in the photographs is appreciated, but perhaps not of the most characteristic characteristics. that make the building what it is.
 
-![1](imgs/brt0.png)
+![1](/imgs/brt0.png)
 
-![2](imgs/brt6.jpg)
+![2](/imgs/brt6.jpg)
 
-![3](imgs/brt4.png)
+![3](/imgs/brt4.png)
 
-![4](imgs/brt3.png)
+![4](/imgs/brt3.png)
 
-![5](imgs/brt-60.png)
+![5](/imgs/brt-60.png)
 
-![6](imgs/brt1.png)
+![6](/imgs/brt1.png)
 
-![7](imgs/brt50.png)
+![7](/imgs/brt50.png)
